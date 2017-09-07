@@ -57,7 +57,7 @@ Address: {4e6cf0ed2d8bbf1fbbc9f2a100602ceba4bf1319}
 ```
  Copy the displayed account address
 
-* `Open second terminal and follow above steps with folder name as `peer2`.
+* `Open second terminal and follow above steps with folder name as peer2`
 
 
 ###  2]  Setup genesis.json
